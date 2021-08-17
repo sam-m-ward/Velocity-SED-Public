@@ -1,5 +1,4 @@
-# Velocity-SED-Public
-## Velocity Correlations with SN Ia SEDs-Public
+# Velocity Correlations with SN Ia SEDs-Public
 ### Project for the Cambridge Accelerate-Spark Data for Science Residency Program 19/07/21-20/08/21
 
 This notebook uses the BayeSN M20 and T21 models (Mandel et al. 2020, Thorp et al. 2021) of Type Ia Supernova Spectral Energy Distributions, 
