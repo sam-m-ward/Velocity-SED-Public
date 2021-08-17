@@ -20,4 +20,4 @@ The end products are p-value pandas data frames, and heatmaps of the pvalues wit
 
 For the purposes of this public notebook release, the data has been limited to [gr] for Foundation, and [BV] for CSP.
 
-Acknowledgements: M. Boresta, K. Mandel, S. Thorp
+Author: S. M. Ward Acknowledgements: M. Boresta, K. Mandel, S. Thorp
