@@ -7,9 +7,9 @@ along with velocity measurements of the Silicon II line from Dettman et al. 2021
 to search for correlations between velocity and light curve features in various passbands/phases.
 
 We use 
-*Foundation survey data [griz passbands] (Foley et al. (2018); Jones et al. (2019)) 
+* Foundation survey data [griz passbands] (Foley et al. (2018); Jones et al. (2019)) 
 fitted using BayeSN T21
-*CSP survey data [BVRIYJH passbands] (Hamuy et al. (2006); Contreras et al. (2010); Wang et al. (2009); Foley & Kasen (2011); Folatelli et al. (2010);
+* CSP survey data [BVRIYJH passbands] (Hamuy et al. (2006); Contreras et al. (2010); Wang et al. (2009); Foley & Kasen (2011); Folatelli et al. (2010);
 Stritzinger et al. (2011); Krisciunas et al. (2017)) 
 fitted using BayeSN M20
 
