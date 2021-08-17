@@ -14,7 +14,7 @@ fitted using BayeSN M20
 
 The notebook loops through features, and performs a KS test on feature sub-samples split at the median velocity. 
 
-The end products are p-value pandas data frames, and heatmaps of the pvalues with time on the x and y axes.
+The end products are p-value pandas data frames, and heatmaps of the p-values with time on the x and y axes.
 
 For the purposes of this public notebook release, the data has been limited to [gr] for Foundation, and [BV] for CSP.
 
