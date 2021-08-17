@@ -3,7 +3,7 @@
 
 This notebook uses the BayeSN M20 and T21 models (Mandel et al. 2020, Thorp et al. 2021) of Type Ia Supernova Spectral Energy Distributions, 
 along with velocity measurements of the Silicon II line from Dettman et al. 2021,
-to search for correlations between velocity and light curve features in various passbands/phases.
+to search for correlations between velocity and light curve features across various passbands and phases.
 
 We use:
 * Foundation survey data [griz passbands] (Foley et al. (2018); Jones et al. (2019)), 
